@@ -1,7 +1,7 @@
 ---
 title: "Testing"
 date: 2021-07-16T07:31:57+02:00
-draft: true
+draft: false
 ---
 
 Is this thing even working?
