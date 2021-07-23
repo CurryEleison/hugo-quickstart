@@ -1,4 +1,4 @@
-baseURL = "https://main.dh2oqr757p883.amplifyapp.com/"
+baseURL = "https://blog.templabs.net"
 languageCode = "en-us"
 title = "My Slightly updated Hugo Site"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
